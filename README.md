@@ -1,6 +1,9 @@
 # Cloud Native Days Manifesto
 
-Cloud Native Days is a global initiative aimed at fostering innovation, collaboration, and community-building within the cloud-native ecosystem. Our mission is to empower developers, technologists, and organizations by promoting open-source cloud native technology, supporting local communities, and enabling international collaboration through a series of global events.
+Having organized Cloud Native and community events for quite a while, we organizers, felt the urge to come up with a new series of independent events, with a strong focus on the local community and the maximum amount of agency for local organizers on how to handle event dates, insurance, tooling, ticketing systems, sponsorships and above all how to handle attendee data. We believe that no one knows their community better than people living it on a daily basis.
+
+Cloud Native Days is a new global initiative, born in the vibrant European Cloud Native ecosystem, which aims to foster collaboration, and community-building within the cloud native ecosystem, with a focus on community events. 
+Our mission is to empower attendees, speakers, and sponsors alike, by promoting open-source cloud native technology, supporting local communities and enabling international collaboration through global events.
 
 ## Our core principles
 
@@ -25,4 +28,4 @@ We invite developers, engineers, entrepreneurs, and cloud natives worldwide to j
 
 **Join the Movement**
 Become a part of Cloud Native Days and contribute to a global community dedicated to openness, innovation, and collaboration.
-To discover more, send an email to: info@cloudnativedays.global (email is not real, just a placeholder)
+To get in touch, send an email to: xxxx
